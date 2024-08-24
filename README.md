@@ -27,4 +27,4 @@ Python script to convert a ModEM 3D resistivity model to VTK format for 3D visua
   - initial.vtr : initial model
   - stations.vtp : location of MT sites
 
-- Open and inspect *.vtX files in ParaView
+- Open and inspect *.vtX files in [[ParaView|https://www.paraview.org/download/]]
