@@ -5,7 +5,9 @@ Python script to convert a ModEM 3D resistivity model to VTK format for 3D visua
 
 - Create virtual environment from `requirements.txt` file:
   `$ python -m venv myenv`
+  
   `$ myenv\Scripts\activate` (Windows)
+  
   `$ pip install -r requirements.txt`
 
 - Prepare input parameters in `settings.cfg`
